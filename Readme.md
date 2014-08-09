@@ -1,12 +1,16 @@
 # Credit card validation
 
+![screenshot](validation.gif)
+
+----
+
 ### The problem
 
 Our shopping website has customers abandoning their purchase in the order form.  
 Our research shows that they drop out because they make typos in their credit 
 card numbers.
 
-### Your mission
+### Solution
 
 Implement validation for the credit card number to catch our users mistakes, and 
 provide them helpful feedback!
@@ -16,7 +20,12 @@ provide them helpful feedback!
  * It should show a green check mark as soon as the valid.
  * If the card type isn't known, show a question mark.
 
-![screenshot](validation.gif)
+### Your mission
+
+ * Get [index.html](index.html) and work on it in your machine.
+ * Use whatever tool or library you want. (jQuery, Angular, Backbone, etc)
+ * Keep the code clean and reviewable.
+ * Have fun!
 
 ### How?
 
