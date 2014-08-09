@@ -34,7 +34,7 @@ provide them helpful feedback!
 
  - *Visa* cards start with `4`.
  - *Mastercard* cards start with `5`.
- - *American Express* cards start with `34` or `37`.
+ - *American Express* cards start with `3`. The 2nd digit is either `4` or `7`.
 
 Also:
 
