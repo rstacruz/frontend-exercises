@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+  <title></title>
+  <style>
+    body { background: #fdfdfd; }
+    .form-group-mini { width: 50%; float: left; padding: 0 10px; }
+    .form-group-mini:first-child { padding-left: 0; }
+    .form-group-mini:last-child { padding-right: 0; }
+    .input-group-addon { min-width: 150px; }
+  </style>
+</head>
+<body>
+
+  <nav class='navbar navbar-default'>
+    <div class='container'>
+      <div class="navbar-header">
+      </div>
+    </div>
+  </nav>
+
+
+  <div class="container">
+    <div class='col-xs-12 col-sm-6 col-sm-offset-3'>
+      <div class='page-header'>
+        <h1>Order now</h1>
+      </div>
+
+      <div class='panel'>
+        <div class='panel-body'>
+          <form>
+            <div class='form-group'>
+              <label>Credit card number:</label>
+              <div class='input-group'>
+                <input type="text" class='form-control' id='card'>
+                <div class='input-group-addon' id='type'></div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label>Name on card:</label>
+              <input type="text" class='form-control'>
+            </div>
+            <div class='clearfix'>
+              <div class="form-group form-group-mini">
+                <label>Expiry date:</label>
+                <input type='text' class='form-control'>
+              </div>
+              <div class="form-group form-group-mini">
+                <label>CVV:</label>
+                <input type='text' class='form-control'>
+              </div>
+            </div>
+            <br>
+            <p>
+              <button class='btn btn-primary'>Submit</button>
+            </p>
+        </form>
+      </div>
+    </div>
+  </div>
+  
+</body>
+</html>
