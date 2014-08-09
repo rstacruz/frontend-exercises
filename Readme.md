@@ -32,9 +32,12 @@ provide them helpful feedback!
 
 ## How?
 
- - Visa cards start with 4.
- - Visa cards are valid if they have 13 to 16 digits.
- - Mastercard cards start with 5.
- - Mastercard cards are valid if it has 16 digits.
- - American Express cards start with 34 or 37.
- - American Express cards are valid if it has 15 digits.
+ - *Visa* cards start with `4`.
+ - *Mastercard* cards start with `5`.
+ - *American Express* cards start with `34` or `37`.
+
+Also:
+
+ - *Visa* cards are valid if they have 13 to 16 digits.
+ - *Mastercard* cards are valid if it has 16 digits.
+ - *American Express* cards are valid if it has 15 digits.
