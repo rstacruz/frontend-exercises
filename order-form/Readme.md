@@ -1,6 +1,6 @@
-![screenshot](validation.gif)
+![Loading...](http://cdn.rawgit.com/rstacruz/frontend-exercises/2235733d/order-form/validation.gif)
 
-**[Download template ▸](https://raw.githubusercontent.com/rstacruz/frontend-exercises/master/index.html)**
+**[Download template ▸](index.html)**
 
 ----
 
