@@ -41,3 +41,13 @@ Also:
  - *Visa* cards are valid if they have 13 to 16 digits.
  - *Mastercard* cards are valid if it has 16 digits.
  - *American Express* cards are valid if it has 15 digits.
+
+----
+
+## Bonus round
+
+There's a published algorithm used to check the validity of credit card numbers.  
+Find out what it is and implement it.
+
+Also, show an `✕ Invalid` message for credit card numbers that match the correct 
+length of digits, but fails validation.
