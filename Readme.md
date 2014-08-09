@@ -1,5 +1,7 @@
 ![screenshot](validation.gif)
 
+**[Download template ▸](https://raw.githubusercontent.com/rstacruz/frontend-exercises/master/index.html)**
+
 ----
 
 # Credit card validation
