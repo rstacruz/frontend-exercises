@@ -46,7 +46,7 @@ Also:
 
 ## Bonus round
 
-There's a published algorithm used to check the validity of credit card numbers.  
+There's a published algorithm used to check the validity of credit card numbers.
 Find out what it is and implement it.
 
 Also, show an `✕ Invalid` message for credit card numbers that match the correct 
